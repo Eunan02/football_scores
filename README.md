@@ -1,4 +1,5 @@
 *API was down on my last try*
+link to live site https://eunan-football-scores.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
